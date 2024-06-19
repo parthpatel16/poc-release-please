@@ -1,0 +1,14 @@
+template: |
+  ## What’s Changed
+
+  $CHANGES
+autolabeler:
+- label: 'chore'
+  title:
+    - '/docs{0,1}\/.+/'
+- label: 'bug'
+  title:
+    - '/fix/i'
+- label: 'feature'
+  title:
+    - '/feature|feat\/.+/'
