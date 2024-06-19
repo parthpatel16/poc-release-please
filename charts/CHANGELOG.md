@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.1](https://github.com/parthpatel16/poc-release-please/compare/kubernetes-policies-v1.5.0...kubernetes-policies-v1.5.1) (2024-06-19)
+
+
+### Bug Fixes
+
+* extra comma-2 ([822801f](https://github.com/parthpatel16/poc-release-please/commit/822801fa7905b2592ef6506b60da75436a20d44c))
+* extra comma-2 ([8c67910](https://github.com/parthpatel16/poc-release-please/commit/8c67910916d0db487d7e3c18c50f0bb1682823f1))
+
 ## [1.5.0](https://github.com/parthpatel16/poc-release-please/compare/kubernetes-policies-v1.4.0...kubernetes-policies-v1.5.0) (2024-06-19)
 
 
