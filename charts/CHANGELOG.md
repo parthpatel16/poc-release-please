@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/parthpatel16/poc-release-please/compare/kubernetes-policies-v1.4.0...kubernetes-policies-v1.5.0) (2024-06-19)
+
+
+### Features
+
+* adding manifest and config files-2 ([e464d5a](https://github.com/parthpatel16/poc-release-please/commit/e464d5ae4d32ad87de0771d5e8503c652ddc1cf3))
+
 ## [1.4.0](https://github.com/parthpatel16/poc-release-please/compare/kubernetes-policies-v1.3.0...kubernetes-policies-v1.4.0) (2024-06-19)
 
 
