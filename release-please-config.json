@@ -7,8 +7,7 @@
       "versioning-strategy": "auto",
       "default-branch": "main",
       "include-component-in-tag": true,
-      "separate-pull-requests": true,
-      "skip-github-pull-request": true
+      "separate-pull-requests": true
     }
   }
 }
