@@ -3,7 +3,7 @@
   "packages": {
     "charts": {
       "release-type": "helm",
-      "changelog-path": "charts/CHANGELOG.md",
+      "changelog-path": "CHANGELOG.md",
       "versioning-strategy": "auto",
       "default-branch": "main",
       "include-component-in-tag": true
