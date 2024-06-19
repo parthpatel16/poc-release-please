@@ -21,6 +21,5 @@ jobs:
           token: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
           # this is a built-in strategy in release-please, see "Action Inputs"
           # for more options
-          skip-github-release: true
           manifest-file: release-please-manifest.json
           config-file: release-please-config.json
