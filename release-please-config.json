@@ -6,7 +6,9 @@
       "changelog-path": "CHANGELOG.md",
       "versioning-strategy": "auto",
       "default-branch": "main",
-      "include-component-in-tag": true
+      "include-component-in-tag": true,
+      "separate-pull-requests": true,
+      "skip-github-pull-request": true,
     }
   }
 }
