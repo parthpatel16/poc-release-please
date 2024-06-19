@@ -8,7 +8,7 @@
       "default-branch": "main",
       "include-component-in-tag": true,
       "separate-pull-requests": true,
-      "skip-github-pull-request": true,
+      "skip-github-pull-request": true
     }
   }
 }
