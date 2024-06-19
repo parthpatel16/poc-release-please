@@ -1,0 +1,23 @@
+# Changelog
+
+## [1.5.1](https://github.com/parthpatel16/poc-release-please/compare/kubernetes-policies-v1.5.0...kubernetes-policies-v1.5.1) (2024-06-19)
+
+
+### Bug Fixes
+
+* extra comma-2 ([822801f](https://github.com/parthpatel16/poc-release-please/commit/822801fa7905b2592ef6506b60da75436a20d44c))
+* extra comma-2 ([8c67910](https://github.com/parthpatel16/poc-release-please/commit/8c67910916d0db487d7e3c18c50f0bb1682823f1))
+
+## [1.5.0](https://github.com/parthpatel16/poc-release-please/compare/kubernetes-policies-v1.4.0...kubernetes-policies-v1.5.0) (2024-06-19)
+
+
+### Features
+
+* adding manifest and config files-2 ([e464d5a](https://github.com/parthpatel16/poc-release-please/commit/e464d5ae4d32ad87de0771d5e8503c652ddc1cf3))
+
+## [1.4.0](https://github.com/parthpatel16/poc-release-please/compare/kubernetes-policies-v1.3.0...kubernetes-policies-v1.4.0) (2024-06-19)
+
+
+### Features
+
+* adding manifest and config files-2 ([f0ebebe](https://github.com/parthpatel16/poc-release-please/commit/f0ebebedac77e230c2c591ee898fc426af68bd9b))

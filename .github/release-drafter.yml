@@ -1,14 +1,16 @@
+name-template: 'v$NEXT_PATCH_VERSION 🌟'
+tag-template: 'v$NEXT_PATCH_VERSION'
+change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
+categories:
+  - title: '🚀 Features'
+    label: 'feature'
+  - title: '🐛 Bug Fixes'
+    label: 'bug'
+  - title: '🛠 Maintenance'
+    label: 'maintenance'
 template: |
   ## What’s Changed
 
   $CHANGES
-autolabeler:
-- label: 'chore'
-  title:
-    - '/docs{0,1}\/.+/'
-- label: 'bug'
-  title:
-    - '/fix/i'
-- label: 'feature'
-  title:
-    - '/feature|feat\/.+/'
+
+  **Full Changelog**: https://github.com/$REPOSITORY/compare/$PREVIOUS_TAG...$NEW_TAG
