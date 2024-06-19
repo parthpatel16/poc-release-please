@@ -5,9 +5,7 @@
       "release-type": "helm",
       "changelog-path": "charts/CHANGELOG.md",
       "versioning-strategy": "auto",
-      "default-branch": "main",
-      "release-as": "helm",
-      "include-component-in-tag": true
+      "default-branch": "main"
     }
   }
 }
