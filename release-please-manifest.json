@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "packages": {
+    ".": {
+      "release-type": "helm",
+      "changelog-path": "CHANGELOG.md",
+      "versioning-strategy": "auto",
+      "default-branch": "main",
+      "release-as": "helm"
+    }
+  }
+}
