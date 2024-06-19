@@ -1,9 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "packages": {
-    ".": {
+    "/charts": {
       "release-type": "helm",
-      "changelog-path": "CHANGELOG.md",
+      "changelog-path": "charts/CHANGELOG.md",
       "versioning-strategy": "auto",
       "default-branch": "main",
       "release-as": "helm"

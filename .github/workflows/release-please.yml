@@ -23,3 +23,4 @@ jobs:
           # for more options
           skip-github-release: true
           manifest-file: ${{ github.workspace }}/release-please-manifest.json
+          config-file: ${{ github.workspace }}/release-please-config.json
