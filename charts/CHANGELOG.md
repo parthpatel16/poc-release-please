@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.8.0](https://github.com/parthpatel16/poc-release-please/compare/kubernetes-policies-v1.7.0...kubernetes-policies-v1.8.0) (2024-06-20)
+
+
+### Features
+
+* chart folder change ([7e095c7](https://github.com/parthpatel16/poc-release-please/commit/7e095c70503979b069e0e42671fca89ce4f1af21))
+
+
+### Reverts
+
+* chart folder change ([b138685](https://github.com/parthpatel16/poc-release-please/commit/b138685ac0f3fd6f46e5d8e9e542d7d6d598175a))
+
 ## [1.7.0](https://github.com/parthpatel16/poc-release-please/compare/kubernetes-policies-v1.6.1...kubernetes-policies-v1.7.0) (2024-06-20)
 
 
