@@ -23,4 +23,3 @@ jobs:
           # for more options
           manifest-file: release-please-manifest.json
           config-file: release-please-config.json
-          skip-github-pull-request: true
