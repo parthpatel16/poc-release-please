@@ -4,7 +4,7 @@
     "charts/sub-directory": {
       "release-type": "helm",
       "package-name": "kubernetes-policies",
-      "changelog-path": "CHANGELOG.md",
+      "changelog-path": "charts/CHANGELOG.md",
       "versioning-strategy": "auto",
       "default-branch": "main",
       "include-component-in-tag": true,
